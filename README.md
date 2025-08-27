@@ -1,12 +1,39 @@
-# React + Vite
+# 🌐 AWS Project - Class Group Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Banner](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
 
-Currently, two official plugins are available:
+## 🚀 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is our **class AWS project** created as a group at **Business College Helsinki**.  
+The project demonstrates deploying a **full-stack application** using AWS services with a focus on **scalability, cloud architecture, and teamwork**.
 
-## Expanding the ESLint configuration
+- **Frontend:** React
+- **Backend:** NUll at the moment
+- **Database:** Amplify
+- **Hosting / Deployment:** Amplify
+- **Version Control:** Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍🤝‍🧑 Team Members
+
+| Name     | Role               |
+| -------- | ------------------ |
+| Member 1 | Frontend           |
+| Member 2 | Backend            |
+| Member 3 | DevOps / AWS Setup |
+| Member 4 | Database & API     |
+
+---
+
+## 🔧 Features
+
+- User authentication & login
+- Interactive pages: Home, About, Contact, Explore, User Profile
+- Cloud deployment with **AWS S3 / EC2**
+- Database integration with **AWS RDS / DynamoDB**
+- Responsive design & clean UI
+
+---
+
+## 📦 Project Structure
