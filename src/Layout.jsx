@@ -1,4 +1,4 @@
-import React, { use, useState } from "react";
+import React, { useState } from "react";
 import Header from "./Pages/Header";
 import Footer from "./Pages/Footer";
 import { Outlet } from "react-router";
