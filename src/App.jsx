@@ -1,7 +1,4 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-// import "./App.css";
+//  import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router";
 import Layout from "./Layout";
 import Login from "./Pages/Login";
@@ -10,9 +7,9 @@ import Contact from "./Pages/Contact";
 import About from "./Pages/About";
 import User from "./Pages/User";
 import Fallback from "./Pages/Fallback";
+import Search from "./Pages/Search";
 
 function App() {
-  const [count, setCount] = useState(0);
   let router = createBrowserRouter([
     {
       path: "/",
@@ -22,6 +19,7 @@ function App() {
         { path: "/explore", element: <Explore /> },
         { path: "/contact", element: <Contact /> },
         { path: "/about", element: <About /> },
+        { path: "/search", element: <Search /> },
         { path: "/user", element: <User /> },
         { path: "/*", element: <Fallback /> },
       ],

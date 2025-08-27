@@ -10,6 +10,7 @@ function Header({ isLoggedin }) {
         <nav>
           <Link to="/">Hpme</Link> <Link to="/about">About</Link> |
           <Link to="/contact">Contact</Link> |<Link to="/explore">Explore</Link>
+          <Link to="/search">Search</Link> |<Link to="/explore">Explore</Link>
           ||
           {/* <a href="/">Home</a> |<a href="/about">About</a> | */}
           {/* <a href="/contact">Contact</a> |<a href="/explore">Explore</a> | */}
