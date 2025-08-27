@@ -9,6 +9,7 @@ function Layout() {
     <div>
       <Header isLoggedin={isLogged}></Header>
       <hr></hr>
+      <p>Hello</p>
       <Outlet></Outlet>
       <hr></hr>
       <h1>Home Sweet Home</h1>
