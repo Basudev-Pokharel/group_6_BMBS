@@ -17,23 +17,21 @@ The project demonstrates deploying a **full-stack application** using AWS servic
 
 ## 🧑‍🤝‍🧑 Team Members
 
-| Name     | Role               |
-| -------- | ------------------ |
-| Member 1 | Frontend           |
-| Member 2 | Backend            |
-| Member 3 | DevOps / AWS Setup |
-| Member 4 | Database & API     |
+| Name    | Role      |
+| ------- | --------- |
+| Basu    | Developer |
+| Makar   | Developer |
+| Benitta | Developer |
+| Saara   | Developer |
 
 ---
 
 ## 🔧 Features
 
 - User authentication & login
-- Interactive pages: Home, About, Contact, Explore, User Profile
+- Interactive pages: Home, About, Contact, Explore, User Profile, Search
 - Cloud deployment with **AWS S3 / EC2**
 - Database integration with **AWS RDS / DynamoDB**
-- Responsive design & clean UI
+- Minimal design & clean UI
 
 ---
-
-## 📦 Project Structure
